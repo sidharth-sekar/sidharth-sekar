@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sidharth S
 
 🎓 **B.Tech in Artificial Intelligence and Machine Learning**  
-📍 Kongu Engineering College, Tamil Nadu  
+📍 Kongu Engineering College, ERODE, Tamil Nadu  
 💻 Passionate about Full Stack Development, Machine Learning, and Data Analytics
 
 ---
