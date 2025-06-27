@@ -7,8 +7,8 @@
 💡 Enthusiastic about **Full Stack Development**, **Machine Learning**, and **Data Analytics**  
 🚀 Always eager to learn, build, and contribute to impactful tech projects
 
----
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 ## 🛠️ Tech Stack
 
