@@ -42,7 +42,7 @@
 ## 🌐 Let's Connect
 
 - 📫 Email: [sidharths2033@gmail.com](mailto:sidharths2033@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sidhu2005](https://www.linkedin.com/in/sidhu2005)  
+- 🔗 LinkedIn: [linkedin.com/in/sidhu2005](https://www.linkedin.com/in/sidhu2005/)  
 - 🧑‍💻 GitHub: [github.com/sidharth-sekar](https://github.com/sidharth-sekar)  
 - 🧠 Leetcode: [sidhu2005](https://leetcode.com/u/sidhu2005/)
 
