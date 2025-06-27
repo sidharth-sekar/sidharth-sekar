@@ -112,6 +112,7 @@
   <img src="https://komarev.com/ghpvc/?username=sidharth-sekar&color=green" alt="Vishnu's Profile View Count">
 </p>
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidharth-sekar&theme=github-compact)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidharth-sekar&show_icons=true&theme=radical" alt="GitHub Stats" />
