@@ -1,4 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">👋 Hi, I'm Sidharth S</h1>
 
@@ -49,6 +50,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+
+
 ---
 
 <h2>🚀 Projects</h2>
@@ -83,7 +86,6 @@
   <li>🎖️ <strong>Design & Implementation of Human-Computer Interfaces</strong> <em>| NPTEL</em></li>
 </ul>
 
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -109,7 +111,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidharth-sekar&color=green" alt="Vishnu's Profile View Count">
+  <img src="https://komarev.com/ghpvc/?username=sidharth-sekar&color=green" alt="Profile View Count">
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidharth-sekar&theme=github-compact)
@@ -117,6 +119,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidharth-sekar&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-sekar&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
+  <a href="https://github.com/sidharth-sekar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-sekar&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" />
+  </a>
 </p>
 
 ### ✨ "Building intelligent solutions with creativity and code."
